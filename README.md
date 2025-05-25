@@ -1,13 +1,17 @@
-## Hi there 👋
+# Welcome to Shahak Levi’s GitHub! 👋
 
+Hi, I’m Shahak, a computer science student.
 
-**shahaklevi/shahaklevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 🎓 Currently pursuing a Bachelor’s degree in Computer Science, now in my fourth semester.
 
-- 🔭 I’m currently working on a degree in computer science
-- 🌱 I’m currently learning to much.
-- 💬 Ask me about everything
-- 📫 How to reach me: shahak34@gmail.com
+## Skills
 
+* **Programming languages:** C/C++, Java, Python, JavaScript, SQL, Assembly x86-64, Bash
+* **Technologies & Tools:** Git, GitHub, Docker, React, Node.js, MongoDB, MySQL, Jira
 
+## Get in Touch
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/shahak-levi)
+* ✉️ [shahak.levi@example.com](mailto:shahak.levi@example.com)
