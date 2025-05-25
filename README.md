@@ -14,4 +14,4 @@ Hi, I’m Shahak, a computer science student.
 ## Get in Touch
 
 * 🔗 [LinkedIn](www.linkedin.com/in/shahak-levi)
-* ✉️ [shahak.levi@example.com](mailto:shahak34@gmail.com)
+* ✉️ [shahak.levi@gmail.com](mailto:shahak34@gmail.com)
